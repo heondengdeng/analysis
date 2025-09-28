@@ -61,7 +61,7 @@ plt.close()
 #-pi , pi 까지 범위를 잡았다.
 
 plt.figure(figsize=(8,6))
-plt.hist(ETA_e_flat, bins=100, range=(-np.pi,np.pi), color = 'green')
+plt.hist(PHI_e_flat, bins=100, range=(-np.pi,np.pi), color = 'green')
 plt.title('genlevel DY PHI_e')
 plt.xlabel('PHI_e [rad]')
 plt.ylabel('Entries')
