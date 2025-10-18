@@ -46,7 +46,6 @@ max_Pt = ak.max(PT_j_flat)
 
 #print(min_Pt)
 #print(max_Pt)
-#어떻게 1548.6989 가 나오지..? 4T 이 700 인데..?
 # 0~1600
 
 
